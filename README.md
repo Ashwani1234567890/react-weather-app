@@ -19,7 +19,8 @@ CSS3
 OpenWeatherMap API
 
 ## Screenshot
-<img width="895" height="903" alt="image" src="https://github.com/user-attachments/assets/706e99b2-44dc-4bf1-8f40-f9a0bfd5ed2a" />
+<img width="797" height="910" alt="image" src="https://github.com/user-attachments/assets/5451fe12-6d4d-4098-927b-2a8c9fe86dbd" />
+
 
 ## Author
 
