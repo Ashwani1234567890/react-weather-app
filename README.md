@@ -13,9 +13,13 @@ A modern weather application built with React and OpenWeatherMap API that allows
 
 ## Tech Stack
 React.js
+
 Vite
+
 JavaScript (ES6+)
+
 CSS3
+
 OpenWeatherMap API
 
 ## Screenshot
